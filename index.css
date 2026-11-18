@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: light pink;margin: o;
+    padding: 0;
+}
+header:hover{
+    background-color: rgb(223, 230, 199);
+}
+header:visited{
+    background-color: rgb(126, 190, 190); 
+    padding: 30px;
+    height: 20px; text-size-adjust: 200px;} 
+    nav{
+        background-color: rgb(229, 188, 188);
+        cursor: all-scroll;
+        color: white;
+        margin: 0;}
+        nav a{
+            color: aliceblue;
+            background-color: blue; text-decoration: none;
+            margin-top: 20px;
+
+
+
+        }
+ 
+} main{
+    background-color: aliceblue;
+    width: 83%;
+    margin: 20px auto;
+    padding: 20px;
+}
+h2{
+    color: blue;
+}
+img{
+    width: 250px;
+    max-width: 100%;
+    border-radius: 10px;
+}
+footer{
+    background-color: peru;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+p{
+    background-color: aqua; color: brown;
+}
+)

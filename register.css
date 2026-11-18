@@ -1,0 +1,65 @@
+form{
+    background-color: aliceblue;
+    cursor: alias;
+    color: black;
+    width: 50%;
+    margin: 34px auto;
+    padding: 29px;
+    border-radius: 10px;
+    text-align:left;
+}
+form label{
+    display: block;
+    font-weight: 200;
+    margin-top: 16px;margin-bottom: 10px;
+    margin-left: 10px;
+
+}
+form input[type="text"],
+form input[type="email"]
+form input[type="number"]
+form select,
+form textarea{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px saddlebrown;
+    border-radius: 10px;}
+    form input[type="checkbox"]{
+        margin: 20px;
+        background-color: blueviolet;
+        color: aliceblue;
+    }
+    form input[type="radio"]{
+        margin: 20px;
+    }
+    form button{
+        background-color: pink;
+        content: normal;
+        color: black;
+        padding: 10px 20px;
+        border: 1px;
+        border-radius: 5px;
+        margin: 10px 23px;
+        cursor: pointer;
+    }
+    form button:hover{
+        background-color: blue;
+    }
+nav{
+    background-color: rgb(187, 66, 66);
+    padding: 12px;
+    text-align: center;
+}
+nav a{
+    background-color: black; color: azure;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none; margin: 10px; 
+}
+main{
+background-color: whitesmoke;
+width: 80%;
+margin: auto 20px;
+padding: 20px;}
+

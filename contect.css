@@ -1,0 +1,37 @@
+nav{
+    background-color: rgb(231, 213, 213);
+    padding: 12px;
+    text-align: center;
+}
+nav a{
+    background-color: black; color: azure;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none; margin: 10px; 
+}
+contact{
+background-attachment:yellow
+;
+    width: 80%;
+    margin: 40px;
+    padding:  30px;
+    border-radius: 20px;
+}
+contact h2,
+contact h3{
+    color: azure;
+    
+
+}contact p{
+    margin: 20px ;
+    font-size: 20px;
+    color: brown;
+}
+contact a{
+    background-color: blueviolet;
+}
+contact a:hover{
+    color: rgb(189, 21, 21);
+    text-align: center;
+    text-decoration: underline;
+}

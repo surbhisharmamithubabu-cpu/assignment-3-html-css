@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 20;
+font-style: italic;margin: 0;
+}
+header{
+    background-color: rgba(3, 3, 50, 0.852);
+    color: wheat;
+    text-align: center;
+    padding: 20px; text-decoration: double;
+}
+nav{
+    background-color: rgb(187, 66, 66);
+    padding: 12px;
+    text-align: center;
+}
+nav a{
+    background-color: black; color: azure;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none; margin: 10px; 
+}
+main{
+background-color: whitesmoke;
+width: 80%;
+margin: auto 20px;
+padding: 20px;
+}
+h3{
+    color: rgb(37, 202, 46); background-color: brown;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+} 
+th,td{
+    border: 2px sandybrown;
+    padding: 2px;
+    text-align: center;
+
+} 
+th{
+    background-color: blueviolet;
+    color: white;
+}
+tr:nth-child(odd){
+    background-color: aqua;
+}
+tr:nth-child(even){
+    background-color: azure;
+}
+footer{
+    background-color: brown;
+    color: aliceblue; text-align: center;
+    padding: 20px;
+}
+h2{
+    background-color: rgb(160, 6, 16); 
+    color: white;
+}
+p{
+    background-color: blanchedalmond; color: blue;
+}
